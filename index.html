@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Real Time Chat App</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-container">
+        <h1 id="heading">Chat App</h1>
+        <hr>
+
+        <div id="messages-section">
+            
+        </div>
+
+        <hr class="horizontal-line">
+        <form id="form" action="#">
+            <div class="input-message">
+                <input id="message" type="text" placeholder="Type your message..." />
+            </div>
+                <button class="send-btn"><img class="arrow" src="resource/reshot-icon-arrow-ZYWPF64C3H.svg"></button>
+        </form>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
