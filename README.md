@@ -31,3 +31,5 @@ This project showcases a real-time chatting application built using Socket.io fo
 - **Socket.io:** For providing an easy-to-use library for real-time web applications.
 - **Node.js:** For its powerful runtime environment that enables efficient server-side development.
 - **JavaScript:** For its versatility and capabilities in both frontend and backend development
+
+Happy coding! 🚀
