@@ -15,7 +15,7 @@ This project showcases a real-time chatting application built using Socket.io fo
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/Real-Time-Chatting-App.git
+   git clone https://github.com/aditya-4747/Real-Time-Chatting-App.git
 
 2. Install dependencies:
 
